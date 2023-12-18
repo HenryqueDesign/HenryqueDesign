@@ -1,4 +1,4 @@
-- 👋 Olá, sou <b>HenryqueDesig<b/>
+- 👋 Olá, sou <p> <b>HenryqueDesig<b/> <p/>
 - 👀 Estou interessado em Design Web
 - 🌱 Atualmente estou aprendendo...
 - 💞️ Procuro colaborar em HTML, CSS, PHP, JAVASCRIPT.
