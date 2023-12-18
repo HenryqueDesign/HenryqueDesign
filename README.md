@@ -1,4 +1,4 @@
-- 👋 Olá, sou HenryqueDesigg
+- 👋 Olá, sou HenryqueDesig
 - 👀 Estou interessado em Design Web
 - 🌱 Atualmente estou aprendendo...
 - 💞️ Procuro colaborar em HTML, CSS, PHP, JAVASCRIPT.
