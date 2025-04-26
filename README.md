@@ -5,14 +5,14 @@
 Me chamo Diego Henrique Alves, tenho 33 anos e sou de Contagem, Minas Gerais. Atualmente, estou cursando Desenvolvimento de Sistemas. Sou apaixonado por tecnologia.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="https://github.com/HenryqueDesign">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@larissakich">
+    <a href="https://www.instagram.com/henryque.design/">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
@@ -26,7 +26,7 @@ Me chamo Diego Henrique Alves, tenho 33 anos e sou de Contagem, Minas Gerais. At
             src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://www.instagram.com/henryque.design/">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
