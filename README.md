@@ -2,13 +2,13 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro, e estou fazendo curso de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, amo games, animes, hobby hoje é aprender a desenvolver Sistemas.
+Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro. Sou apaixonado por tecnologia, amo games, animes, hobby hoje é aprender a desenvolver Sistemas.
 <p align="left">
     <a href="https://github.com/HenryqueDesign?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/HenryqueDesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
