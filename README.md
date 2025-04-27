@@ -4,7 +4,6 @@
 
 Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro. Sou apaixonado por tecnologia, amo games, animes, hobby hoje é aprender a desenvolver Sistemas.
 <p align="left">
-    </a>
     <a href="https://github.com/HenryqueDesign?tab=followers">
         <img 
             alt="Seguidores" 
@@ -13,6 +12,7 @@ Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. At
         />
     </a>
          <img 
+             <a href="https://www.instagram.com/henryque.design/?tab=followers">
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"
