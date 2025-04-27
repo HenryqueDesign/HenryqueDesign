@@ -4,12 +4,6 @@
 
 Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro. Sou apaixonado por tecnologia, amo games, animes, hobby hoje é aprender a desenvolver Sistemas.
 <p align="left">
-      <a href="https://github.com/HenryqeDesign?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/HenryqeDesign?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
     </a>
     <a href="https://github.com/HenryqueDesign?tab=followers">
         <img 
