@@ -4,7 +4,7 @@
 
 Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro, e estou fazendo curso de Desenvolvimento de Sistemas. Sou apaixonado por tecnologia, amo games, animes, hobby hoje é aprender a desenvolver Sistemas.
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/HenryqueDesign?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
