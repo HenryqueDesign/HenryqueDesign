@@ -11,8 +11,8 @@ Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. At
             src="https://custom-icon-badges.demolab.com/github/followers/HenryqueDesign?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+        <a href="https://www.instagram.com/henryque.design/?tab=followers">
          <img 
-             <a href="https://www.instagram.com/henryque.design/?tab=followers">
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/badge/-hermione@spew.co.uk-red?style=for-the-badge&logo=mention&logoColor=white"
