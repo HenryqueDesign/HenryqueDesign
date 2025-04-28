@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro. Sou apaixonado por tecnologia, amo games, animes, hobby hoje é aprender a desenvolver Sistemas.
+Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. Atualmente trabalho como motorista carreteiro. Sou apaixonado por tecnologia, hobby hoje é aprender a desenvolver Sistemas.
 <p align="left">
     <a href="https://github.com/HenryqueDesign?tab=followers">
         <img 
