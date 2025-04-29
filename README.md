@@ -19,6 +19,7 @@ Me chamo Diego Henrique Alves, nasci em 91, e sou de Contagem-MG. Atualmente tra
         />
     </a>
 </p>
+<br>
 ---
 
 ### 🤖 Linguagens e Tecnologias
