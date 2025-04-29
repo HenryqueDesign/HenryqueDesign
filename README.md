@@ -15,7 +15,7 @@ Me chamo Diego Henrique Alves, nasci em 91, e sou de Contagem-MG. Atualmente tra
          <img 
             alt="Seguidores" 
             title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-followers/HenryqueDesign&E4405F?style=for-the-badge&logo=instagram&logoColor=white&"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&followers/HenryqueDesign"
         />
     </a>
 </p>
