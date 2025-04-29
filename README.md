@@ -48,7 +48,7 @@ Me chamo Diego Henrique Alves, nasci em 91, e sou de Contagem-MG. Atualmente tra
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <br>
-### 📊 Estatísticas
+<center>### 📊 Estatísticas<center/>
 
 <p>
   <img 
