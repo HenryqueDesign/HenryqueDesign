@@ -41,6 +41,14 @@ Me chamo Diego Henrique Alves, nasci em 91, e sou de Contagem-MG. Atualmente tra
 />
 <img 
     align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -55,14 +63,6 @@ Me chamo Diego Henrique Alves, nasci em 91, e sou de Contagem-MG. Atualmente tra
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
     align="left" 
