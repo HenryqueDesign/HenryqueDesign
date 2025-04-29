@@ -15,8 +15,7 @@ Me chamo Diego Henrique Alves, nasci em 1991 e sou de Contagem, Minas Gerais. At
          <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
