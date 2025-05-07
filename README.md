@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-and`**
 
-Olá, tudo bem? meu nome é, Diego Henrique Alves, sou de Contagem-MG. Atualmente trabalho como Motorista Carreteiro. Sou apaixonado por Tecnologia, hobby hoje é aprender a Desenvolver Sistemas.
+Olá, tudo bem? <br>Meu nome é Diego Henrique Alves, sou de Contagem-MG. Atualmente trabalho como Motorista Carreteiro. Sou apaixonado por Tecnologia, hobby hoje é aprender a Desenvolver Sistemas.
 <p align="left">
     <a href="https://github.com/HenryqueDesign?tab=followers">
         <img 
